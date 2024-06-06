@@ -1,0 +1,20 @@
+actimel-Lidl-7
+actimel-Kaufland-6
+actimel-Penny-5.2
+actimel-Flana_Fortuna-5.3
+actimel-Flana_Poetului-5
+
+
+cas pane-Flana_Fortuna-13
+cas pane-Flana_Poetului-11
+
+lapte-Lidl-14.5
+lapte-Kaufland-15.5
+lapte-Penny-13.5
+lapte-Flana_Fortuna-12.6
+lapte-Flana_Poetului-15.5
+
+paine-Lidl-4
+paine-Kaufland-6
+
+
